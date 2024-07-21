@@ -1,0 +1,4 @@
+Huffman Coding is a data compression algorithm that is used to reduce the size of data without 
+losing any information.It achieves this by assigning shorter binary codes to frequently occurring 
+characters and longer codes to less frequent characters.This technique allows for efficient storage
+and transmission of data.
